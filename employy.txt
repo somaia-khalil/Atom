@@ -1,0 +1,3 @@
+jim, sales
+Ali, teacher
+Mohammed, Doctor
